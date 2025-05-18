@@ -1,0 +1,7 @@
+username,action,group
+alice,create,developers
+bob,create,devops
+carol,create,qa
+dave,delete,
+eve,create,admins
+frank,delete,

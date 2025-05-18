@@ -10,4 +10,4 @@ if [ "$USAGE" -gt "$THRESHOLD" ]; then
   echo "⚠️ Warning: Disk usage is above ${THRESHOLD}%"
 else
   echo "✅ Disk usage is under control"
-fi
+fi 
